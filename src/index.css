@@ -1,0 +1,18 @@
+* {
+    font-family: 'Afacad', sans-serif;
+}
+
+a {
+    color: white !important;
+}
+
+ul li:hover {
+    background-color: orange;
+    color: aliceblue;
+    transition: 0.6s ease;
+}
+.active
+{
+    background-color: orange;
+    color: aliceblue;
+}
